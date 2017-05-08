@@ -1,0 +1,22 @@
+/*  */
+.navbar-default{background-color:#003; border:#003; border-radius:0px;
+
+/* DEĞİŞİM OLACAKKKKK */
+
+
+}
+/* DEĞİŞİM OLACAKKKKK silindi alttaki */
+.navbar-default .navbar-brand{color:#fff; font-size:30px; text-decoration:none;}
+
+.navbar-default .navbar-nav >li>a {color:#fff; margin-left:20px; font-size:20px; border:#03F solid 1px; border-radius:15px;}
+
+.navbar-default .navbar-nav >li>a:hover {color:#fff; margin-left:10px; font-size:20px; border:#03F solid 1px; border-radius:15px; background-color:#09C;}
+
+.navbar .navbar-nav{ display:inline-block; float:none; vertical-align:top;}
+.navbar .navbar-collapse { text-align:center;}
+
+/* DEĞİŞİM OLACAKKKKK KUTUCUK HAREKETİ İÇİN*/
+body{
+	background-color:#C4D7D6;
+	}
+	
